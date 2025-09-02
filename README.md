@@ -43,7 +43,7 @@ A modern .NET 8 Web API that provides comprehensive country information by consu
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/CountryInfoAPI.git
+git clone https://github.com/vchatzis4/CountryInfoAPI.git
 cd CountryInfoAPI
 ```
 
@@ -382,5 +382,6 @@ GitHub - [@vchatzis4]
 Project Link: [https://github.com/vchatzis4/CountryInfoAPI](https://github.com/vchatzis4/CountryInfoAPI)
 
 ---
+
 
 <p align="center">Made with ❤️ using .NET 8</p>
